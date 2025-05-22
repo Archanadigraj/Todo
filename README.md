@@ -16,7 +16,7 @@ TodoSummaryAssistant is a modern, fast, and user-friendly application that helps
 
 ## 🧱 Tech Stack
 
-- *Frontend:* React + TypeScript
+- *Frontend:* React + JavaScript
 - *Bundler:* Vite
 - *Styling:* CSS Modules or Tailwind (adjust based on actual usage)
 - *APIs:* Modular API integration
@@ -69,13 +69,3 @@ npm run preview
 📜 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
-Built with ❤ using React + TypeScript + Vite.
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to generate this README.md file and place it in your project
